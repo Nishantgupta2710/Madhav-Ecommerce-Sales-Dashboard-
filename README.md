@@ -32,5 +32,5 @@ Business Impact:
 Helps decision-makers monitor key financial metrics in real time and take corrective actions when performance declines.
 
 6. Screenshots / Demos:-
-
+Dasboard:- https://github.com/Nishantgupta2710/Madhav-Ecommerce-Sales-Dashboard-/blob/main/Dashboard.png
 
